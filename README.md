@@ -1,51 +1,47 @@
-EDA — Global Coffee Production & Prices
-Overview
+# EDA — Global Coffee Production & Prices
 
-This repository contains an Exploratory Data Analysis (EDA) of historical coffee production, harvested area, and international coffee prices.
-The analysis focuses on descriptive statistics and data visualization to understand distributions, variability, asymmetry, and long-term trends across major coffee-producing countries.
+## Overview
 
-Objectives
+This repository presents an **Exploratory Data Analysis (EDA)** of historical global coffee production, harvested area, and international coffee prices.  
+The analysis emphasizes **descriptive statistics and data visualization** to characterize distributions, variability, asymmetry, and long-term patterns across major coffee-producing countries.
 
-Apply descriptive statistics to real-world agricultural and economic data
+Rather than establishing causal relationships, the focus is on **understanding structural behaviors, trends, and stylized facts** present in agricultural and price data.
 
-Analyze coffee production and harvested area over time
+---
 
-Study the evolution and variability of international coffee prices
+## Objectives
 
-Compare mean vs median, dispersion, percentiles, and outliers
+- Apply descriptive statistics to real-world agricultural and economic datasets  
+- Analyze the evolution of coffee production and harvested area over time  
+- Study long-term trends and volatility in international coffee prices  
+- Compare mean vs. median behavior, dispersion, percentiles, and outliers  
+- Identify structural patterns and extreme events across countries  
 
-Identify long-term patterns and extreme behaviors
+---
 
-Countries Included
+## Countries Included
 
-Brazil
+- Brazil  
+- Colombia  
+- Ethiopia  
+- Honduras  
+- Indonesia  
+- Uganda  
+- Viet Nam  
 
-Colombia
+---
 
-Ethiopia
+## Data Sources
 
-Honduras
+- **Production & Harvested Area:** FAOSTAT  
+- **Coffee Prices:** Macrotrends  
 
-Indonesia
+---
 
-Uganda
+## Methodology
 
-Viet Nam
-
-Data Sources
-
-Production & Harvested Area: FAOSTAT
-
-Coffee Prices: Macrotrends
-
-Methodology
-
-Data understanding and preprocessing
-
-Descriptive statistics (mean, median, std, IQR, percentiles)
-
-Distribution and outlier analysis
-
-Time series visualization
-
-Cross-country comparisons
+- Data understanding and preprocessing  
+- Descriptive statistics (mean, median, standard deviation, IQR, percentiles)  
+- Distribution analysis and outlier inspection  
+- Time series visualization and trend analysis  
+- Cross-country and aggregate comparisons  
